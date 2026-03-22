@@ -1,17 +1,20 @@
-# Hi, I'm Buvisuriya 👋
+Hi, I'm Buvisuriya 👋
 
-💻 IT Administrator | Aspiring DevOps Engineer  
+💻 IT Administrator with experience in:
+- Networking (TCP/IP, DNS, DHCP, VLAN)
+- Linux Server Administration
+- Windows Server Management
+- Hardware & System Troubleshooting
 
-🔧 Skills:
-- Networking (DNS, DHCP, VLAN)
-- Linux & Windows Server
-- System & Hardware Troubleshooting  
-
-🚀 Learning:
-- AWS / Cloud
+🚀 Currently learning and transitioning into DevOps:
+- AWS / Cloud Computing
 - Docker & Kubernetes
-- CI/CD & Terraform  
+- CI/CD (Jenkins, GitHub Actions)
+- Infrastructure as Code (Terraform)
 
-📌 Interested in Cloud, DevOps & Infrastructure  
+📌 Interested in:
+- Cloud Engineering
+- DevOps Automation
+- Server & Infrastructure Management
 
-📫 Open to IT Admin / DevOps roles
+📫 Open to opportunities in IT Admin / Cloud / DevOps roles
